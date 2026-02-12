@@ -148,7 +148,7 @@ This project is **expected to reduce installation time, lower operational costs,
 
 ---
 
-### 📎 Attachments (Add later)
+### 📎 Attachments
 
 - Architecture diagram
 - Jira board screenshot
